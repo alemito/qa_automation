@@ -1,4 +1,4 @@
-# Proyecto de Automatización QA — Login en SauceDemo
+# Proyecto de Automatización QA
 
 Este proyecto forma parte de la **Pre-Entrega del curso de Automation QA**, y consiste en automatizar el proceso de login en el sitio [https://www.saucedemo.com](https://www.saucedemo.com), verificando que el acceso sea exitoso y que se muestren los elementos correspondientes en la página de inventario.
 
