@@ -44,3 +44,10 @@ Ejecutar las pruebas con Pytest:
 ```bash
 pytest -v tests/test_catalogo.py
 ```
+
+2. **Interacción con Productos**
+
+Ejecutar las pruebas con Pytest:
+```bash
+pytest -v tests/test_carrito.py
+```
