@@ -15,35 +15,24 @@ Automatizar la prueba de login en el sitio **saucedemo.com**, utilizando:
 
 ---
 
-## Estructura del Proyecto
 
-Pre_Entrega/
-│
-├── src/
-│ └── funciones_login.py # Contiene funciones auxiliares de login
-│
-├── tests/
-│ └── test_login.py # Contiene los casos de prueba automatizados con pytest
-│
-├── requirements.txt # Librerías necesarias para ejecutar el proyecto
-└── README.md # Este archivo
-
----
-
-## ⚙️ Instalación y Configuración
+## Instalación y Configuración
 
 1. **Clonar el repositorio**
-   git clone https://github.com/alemito/qa_automation.git
-   cd qa_automation/Pre_Entrega
-
+```bash
+git clone https://github.com/alemito/qa_automation.git
+cd qa_automation/Pre_Entrega
+```
 2. **Instalar dependencias**
-    pip install -r requirements.txt
-
+```bash
+pip install -r requirements.txt
+```
 
 ---
 
 ## Ejecución de las pruebas
 
 Ejecutar las pruebas con Pytest:
-
+```bash
 pytest -v tests/test_login.py
+```
