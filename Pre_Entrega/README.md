@@ -30,9 +30,17 @@ pip install -r requirements.txt
 
 ---
 
-## Ejecución de las pruebas
+## Puntos del TP
+1. **Automatización de Login**
 
 Ejecutar las pruebas con Pytest:
 ```bash
 pytest -v tests/test_login.py
+```
+
+2. **Navegación y Verificación del Catálogo**
+
+Ejecutar las pruebas con Pytest:
+```bash
+pytest -v tests/test_catalogo.py
 ```
